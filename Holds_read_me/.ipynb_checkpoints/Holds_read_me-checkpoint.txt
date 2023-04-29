@@ -79,4 +79,4 @@ Submission
 To submit your project, click Submit, and then provide the URL of your GitHub repository for grading. In addition to submitting your project individually, please fill out this formLinks to an external site.. (You only need to submit one form per group.)
 
 NOTE
-Projects are requirements for graduation. While you are allowed to miss up to two Challenge assignments and still earn your certificate, projects cannot be missed.
+Projects are requirements for graduation. While you are allowed to miss up to two Challenge assignments and still earn your certificate, projects cannot be missed..
